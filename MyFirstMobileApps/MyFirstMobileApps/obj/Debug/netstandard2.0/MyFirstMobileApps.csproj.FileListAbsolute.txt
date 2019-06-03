@@ -1,0 +1,14 @@
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\bin\Debug\netstandard2.0\MyFirstMobileApps.deps.json
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\bin\Debug\netstandard2.0\MyFirstMobileApps.dll
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\bin\Debug\netstandard2.0\MyFirstMobileApps.pdb
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\MyFirstMobileApps.csprojAssemblyReference.cache
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\MyFirstMobileApps.csproj.CoreCompileInputs.cache
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\MyFirstMobileApps.AssemblyInfoInputs.cache
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\MyFirstMobileApps.AssemblyInfo.cs
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\MyFirstMobileApps.dll
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\MyFirstMobileApps.pdb
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\TictactoePage.xaml.g.cs
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\ChartPage.xaml.g.cs
+C:\Users\aldif\source\repos\MyFirstMobileApps\MyFirstMobileApps\MyFirstMobileApps\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Landing Page"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MyFirstMobileApps"
+             x:Class="MyFirstMobileApps.MainPage">
+
+    <AbsoluteLayout>
+        <Button Text="TicTacToe Game" FontSize="20" BackgroundColor="#34495e" TextColor="white"
+                AbsoluteLayout.LayoutBounds="0.5, 0.1, 0.8, 0.2" AbsoluteLayout.LayoutFlags="All"
+                Clicked="Tictactoe_Button_Clicked"/>
+        <Button Text="Charts" FontSize="20" BackgroundColor="#34495e" TextColor="White"
+                AbsoluteLayout.LayoutBounds="0.5, 0.5, 0.8, 0.2" AbsoluteLayout.LayoutFlags="All"
+                Clicked="Chart_Button_Clicked"/>
+    </AbsoluteLayout>
+</ContentPage>
